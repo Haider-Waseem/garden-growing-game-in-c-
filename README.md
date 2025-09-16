@@ -1,4 +1,5 @@
-Wanted to create something similar to Tic-Tac-Toe but not exactly the same game. Thought, got the idea, and built this instead. Hope you enjoy :D 
+Wanted to create something similar to Tic-Tac-Toe but not exactly the same game. Thought, got the idea, and built this instead. Hope you enjoy :D  
+
 Game Rules
 - Grid-Based Garden: The game is played on a grid, starting with a 3x3 size.
 - Choosing Your Crop: You can choose between two different fruits to plant on the grid garden:
