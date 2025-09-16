@@ -3,7 +3,7 @@ Wanted to create something similar to Tic-Tac-Toe but not exactly the same game.
 Game Rules
 - Grid-Based Garden: The game is played on a grid, starting with a 3x3 size.
 - Choosing Your Crop: You can choose between two different fruits to plant on the grid garden:
-- Tomato or Pineapple
+    - Tomato or Pineapple
 - Planting Seeds: You can only plant seeds in two consecutive locations (blocks) at a time. This means you must plant them side-by-side, either horizontally or vertically.
 - Limited Space: If you run out of valid consecutive spaces, you can no longer plant new seeds. At this point, you have a couple of choices:
 
