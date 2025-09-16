@@ -1,5 +1,5 @@
-Garden Growing Game 🌳
-Welcome to the Garden Growing Game, a console-based C++ game where you manage your own virtual garden with some interesting rules to have fun!
+Garden Growing Game 🌳  
+Welcome to the Garden Growing Game, a console-based C++ game where you manage your own virtual garden with some interesting rules to have fun!  
 Game Rules
 - Grid-Based Garden: The game is played on a grid, starting with a 3x3 size.
 - Choosing Your Crop: You can choose between two different fruits to plant on the grid garden:
